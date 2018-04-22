@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What does a personal computer consist of??",
+        "answers": [
+            {
+                "answer": "system block",
+                "result": true
+            },
+            {
+                "answer": "display",
+                "result": true
+            },
+            {
+                "answer": "keyboard",
+                "result": true
+            },
+            {
+                "answer": "additional devices",
+                "result": false
+            },
+            {
+                "answer": "complex multimedia",
+                "result": false
+            }
+        ]
+    }
+]

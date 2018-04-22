@@ -1,0 +1,19 @@
+[
+    {
+        "question": "The main function of a computer?",
+        "answers": [
+            {
+                "answer": "communication of man and machine",
+                "result": false
+            },
+            {
+                "answer": "development of tasks",
+                "result": false
+            },
+            {
+                "answer": "principle of program management",
+                "result": true
+            }
+        ]
+    }
+]
